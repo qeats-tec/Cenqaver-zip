@@ -1,0 +1,1907 @@
+{
+  "guildId": "1439335274516709590",
+  "name": "Fan Club'S 🐝 ✧ PFP's ✧ Banner ✧ Sosyal ✧  Oyun ✧ Roblox🔥 ✧ Anime                      #BÜYÜME",
+  "backupDate": "2026-04-19T10:23:23.164Z",
+  "roles": [
+    {
+      "id": "1476959980010737724",
+      "name": "👑║Qeat",
+      "color": "#aeaeae",
+      "hoist": true,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1493690102596108390",
+      "name": "Founder'S",
+      "color": "#000001",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1477242677392048250",
+      "name": "🤖║Botlar",
+      "color": "#002dff",
+      "hoist": true,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1482073190367891670",
+      "name": "🏯║Gangchan",
+      "color": "#141f67",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": true
+    },
+    {
+      "id": "1493300366471725181",
+      "name": "🦹║Makpus",
+      "color": "#ff0000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560253488857220",
+      "name": "🟠║Açık turuncu",
+      "color": "#ffb759",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560425929277473",
+      "name": "🔵║Lacivert",
+      "color": "#000a4d",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560365841682432",
+      "name": "🩵║Cyan",
+      "color": "#7bffe9",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560172039405578",
+      "name": "🔴║Koyu kırmızı",
+      "color": "#900000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560518891700268",
+      "name": "🩷║Açık pembe",
+      "color": "#ffb8de",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560468052541450",
+      "name": "🟣║Mor la bu",
+      "color": "#d073ff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480560301442076692",
+      "name": "🟢║Koyu yeşil",
+      "color": "#0d4100",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493689473278541895",
+      "name": "👑║Qeat Guardian III",
+      "color": "#00cdff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493689447148163182",
+      "name": "👑║Qeat Guardian II",
+      "color": "#48fff9",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493689385202225392",
+      "name": "👑║Qeat Guardian I",
+      "color": "#bafbff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493689360258830367",
+      "name": "⚔️║Qeat Sentinel III",
+      "color": "#43ff55",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493689331624448040",
+      "name": "⚔️║Qeat Sentinel II",
+      "color": "#86ff90",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493689257401782362",
+      "name": "⚔️║Qeat Sentinel I",
+      "color": "#bfffe5",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483140693164687512",
+      "name": "🧑‍💼║Yönetim Yetkilileri",
+      "color": "#7dbb9b",
+      "hoist": false,
+      "permissions": "8543204343281875",
+      "mentionable": false
+    },
+    {
+      "id": "1494217504833404938",
+      "name": "🛑║Scammer Bulucu",
+      "color": "#000001",
+      "hoist": false,
+      "permissions": "1099511644160",
+      "mentionable": false
+    },
+    {
+      "id": "1476960155517059285",
+      "name": "🥇║İlkler",
+      "color": "#f6f65b",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476961358808481873",
+      "name": "💂‍♂️ ║ Çok Büyük Adam",
+      "color": "#ff0000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476961250482323517",
+      "name": "⚱️║Gerçek Cengaver",
+      "color": "#ff6363",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476961163324428443",
+      "name": "👹 ║CENGAVER",
+      "color": "#e48585",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480554523964604427",
+      "name": "⛑️║Destekçimmmm",
+      "color": "#fdc7f7",
+      "hoist": true,
+      "permissions": "4503599627370496",
+      "mentionable": false
+    },
+    {
+      "id": "1485267632461451507",
+      "name": "🪙║Sunucu Zengini",
+      "color": "#eeff00",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1494225978698891284",
+      "name": "🪘║Tüccar",
+      "color": "#d3a379",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480943318916530307",
+      "name": "📷║Uploader",
+      "color": "#3b5963",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1494418540780978207",
+      "name": "⊱━━━━━━━━━━━━ 📈 ━━━━━━━━━━━━⊰",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480266490337951845",
+      "name": "🌌 || Qeat Efsanesi +90",
+      "color": "#250049",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480266354232922182",
+      "name": "🤹‍♂️║Bay Becerikli +75",
+      "color": "#6800b3",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480266242785935470",
+      "name": "🍞║Yarım Ekmek +50",
+      "color": "#7a38ff",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480265820650082415",
+      "name": "🤡║Kılı Kırk Yatmak +40",
+      "color": "#0058ff",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476960912534667509",
+      "name": "🛡️ || Qeat Muhafızı +30",
+      "color": "#00ffa5",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476960735002235002",
+      "name": "✈️║Cengaverlik yolu +20",
+      "color": "#00d0ff",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1484180386627059823",
+      "name": "🏠 || Qeat Sakini +15",
+      "color": "#259dea",
+      "hoist": true,
+      "permissions": "64",
+      "mentionable": false
+    },
+    {
+      "id": "1476960695336702122",
+      "name": "☸️║Qeat Yogi +10",
+      "color": "#80ffe5",
+      "hoist": true,
+      "permissions": "137439215616",
+      "mentionable": false
+    },
+    {
+      "id": "1476960599798976719",
+      "name": "🚶‍♂️ || Qeat Yolcusu +5",
+      "color": "#d1ffe8",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1484179929108316270",
+      "name": "👣 || Qeat Meraklısı +1",
+      "color": "#b3eeff",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476961530686738443",
+      "name": "👋║Hoşgeldin",
+      "color": "#992d22",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1494418355854118912",
+      "name": "⊱━━━━━━━━━━━━ 🎮 ━━━━━━━━━━━━⊰",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480235059876331652",
+      "name": "🎱║roblox",
+      "color": "#7b7bff",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480235167737057472",
+      "name": "🔫║Valorant",
+      "color": "#ff0004",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480235229229617305",
+      "name": "⛏️║Minecraft",
+      "color": "#00ff19",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480235299220099294",
+      "name": "🎶║osu!",
+      "color": "#da39ac",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480235482033160192",
+      "name": "💣║CS-go",
+      "color": "#4f6300",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1494418284034920721",
+      "name": "⊱━━━━━━━━━━━━ 👤 ━━━━━━━━━━━━⊰",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476961466350436405",
+      "name": "🖥️║PC/Bilgisayar",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1476961430757572608",
+      "name": "📱║Telefon",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480561295559229591",
+      "name": "♀️║Lady",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1480561323514400930",
+      "name": "♂️║Lord",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1494418960349659336",
+      "name": "⊱━━━━━━━━━━━━ 📣 ━━━━━━━━━━━━⊰",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483532224535072929",
+      "name": "🤝║Partner Ping",
+      "color": "#f0b8ec",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483532322908409867",
+      "name": "❤️‍🩹║Chat Rev Ping",
+      "color": "#93ffc0",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483532406236643368",
+      "name": "📢║Etkinlik Ping",
+      "color": "#9595f3",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483532591100592270",
+      "name": "❓║Soru Ping",
+      "color": "#c2edff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483532662734852287",
+      "name": "🆙║Update Ping",
+      "color": "#eeffb5",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1483532782146682880",
+      "name": "🪐║Öneri Ping",
+      "color": "#ffb5b5",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1493298566691553360",
+      "name": "🐝║Bachira Fan Giriş Kartı",
+      "color": "#d8fda3",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "1439549944531914804",
+      "type": 4,
+      "name": "-━─━────༺ HOŞGELDİN ༻────━─━-",
+      "parentId": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1439552025275666483",
+      "type": 4,
+      "name": "-━─━────༺ BİLGİ ༻────━─━-",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050688"
+        }
+      ]
+    },
+    {
+      "id": "1491110341738893444",
+      "type": 4,
+      "name": "━─━────༺ DESTEK ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1476958773787492494",
+      "type": 4,
+      "name": "━─━────༺ ROLLER ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2112"
+        }
+      ]
+    },
+    {
+      "id": "1480653923122417724",
+      "type": 4,
+      "name": "━─━────༺ PROFİL ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1480943318916530307",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1088",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "id": "1439548595626967112",
+      "type": 4,
+      "name": "━─━────༺ GENEL ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1480233115803979948",
+      "type": 4,
+      "name": "━─━────༺ OYUN ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1495317760086114437",
+      "type": 4,
+      "name": "━─━────༺ CENQAVER KALESİ ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ]
+    },
+    {
+      "id": "1462711851971510352",
+      "type": 4,
+      "name": "━─━────༺ EĞLENCE ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1439511657167585292",
+      "type": 4,
+      "name": "━─━────༺ SES ODALARI ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1440014782810816672",
+      "type": 4,
+      "name": "━─━────༺ TAKVİYE ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1439510943175540766",
+      "type": 4,
+      "name": "━─━────༺ BOT KOMUTLAR ༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1175501924922044437",
+          "type": 1,
+          "allow": "1051648",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "id": "1483140573819961344",
+      "type": 4,
+      "name": "Arka Plan",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1477242677392048250",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1476959980010737724",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1493297901429067806",
+      "type": 4,
+      "name": "━───༺ Bachira Fan Club ༻────",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1493298566691553360",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "id": "1480264327150702815",
+      "type": 2,
+      "name": "━─━────༺ 25 Kişiyiz༻────━─━",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1048576"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1482619750222790746",
+      "type": 0,
+      "name": "┠📝┃qeatin-notları",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480296570682343464",
+      "type": 2,
+      "name": "˗ˏˋ Her şeyi ben oluşturdum👌ˎˊ˗",
+      "parentId": null,
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1048576"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1493989236964065502",
+      "type": 0,
+      "name": "┠📝┃krepin-notları",
+      "parentId": null,
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439549003334160487",
+      "type": 2,
+      "name": "┠ 🔊┃Genel Sohbet 1",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 30
+    },
+    {
+      "id": "1439551189158199389",
+      "type": 0,
+      "name": "┠👋┃hoşgeldin",
+      "parentId": "1439549944531914804",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439549184473698354",
+      "type": 2,
+      "name": "┠ 🔊┃Genel Sohbet 2",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 40
+    },
+    {
+      "id": "1477183991520952400",
+      "type": 0,
+      "name": "┠🙋‍♂️┃gittin-demek",
+      "parentId": "1439549944531914804",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439549365579415572",
+      "type": 2,
+      "name": "┠ 🔊┃Genel Sohbet 3",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 25
+    },
+    {
+      "id": "1485304004815618258",
+      "type": 0,
+      "name": "┠🙇‍♂️┃öne-çıkarma",
+      "parentId": "1439549944531914804",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439549422160580669",
+      "type": 2,
+      "name": "┠ 🔊┃Genel Sohbet 4",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 5
+    },
+    {
+      "id": "1483536917420314644",
+      "type": 0,
+      "name": "┗👁‍🗨┃biz-kimiz",
+      "parentId": "1439549944531914804",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439549461796880384",
+      "type": 2,
+      "name": "┠ 🔊┃Genel Sohbet 5",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64375,
+      "userLimit": 15
+    },
+    {
+      "id": "1439552391279280128",
+      "type": 0,
+      "name": "┠📜┃kurallar",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1462386769205919799",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050624"
+        }
+      ],
+      "topic": "Sadece birkac kelime",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439510587682852917",
+      "type": 0,
+      "name": "┠📢┃duyurular",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2112"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1493968393584381963",
+      "type": 2,
+      "name": "┠🥀┃AFK Odası",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1476957457162043493",
+      "type": 2,
+      "name": "┗ 🔒┃Özel Oda",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1483551008893309120",
+      "type": 0,
+      "name": "┠🆙┃sunucu-güncellemeleri",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050688"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480300625551032452",
+      "type": 0,
+      "name": "┠🔜┃eklenecekler",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494425059387772958",
+      "type": 2,
+      "name": "┠ 💎┃Takviye Ses 1🔊",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1480558000144908440",
+      "type": 0,
+      "name": "┠🚫┃ceza-takip",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1483140693164687512",
+          "type": 0,
+          "allow": "2048",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050624"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494424709834477618",
+      "type": 2,
+      "name": "┠ 💎┃Takviye Ses 2🔊",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1480558262683435233",
+      "type": 0,
+      "name": "┠⛔┃dolandırıcılar",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1050624"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494424746962456719",
+      "type": 2,
+      "name": "┠ 💎┃Takviye Ses 3🔊",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1494424780412158036",
+      "type": 2,
+      "name": "┠ 💎┃Takviye Ses 4🔊",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1494429313150357695",
+      "type": 0,
+      "name": "┠🕴️┃ihbarlar",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050688"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480553240729747657",
+      "type": 2,
+      "name": "┗ 💎┃Takviye Ses 5🔊",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1483107267581710429",
+      "type": 0,
+      "name": "┗🧑‍🤝‍🧑┃nasıl-davet-edilir",
+      "parentId": "1439552025275666483",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050688"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1491110534060310678",
+      "type": 0,
+      "name": "┗🎟️┃ticket-aç",
+      "parentId": "1491110341738893444",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494739608506728630",
+      "type": 2,
+      "name": "┗ 🐝┃Bachira Fan Ses",
+      "parentId": "1493297901429067806",
+      "permissionOverwrites": [
+        {
+          "id": "1493298566691553360",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "id": "1476959011818438769",
+      "type": 0,
+      "name": "┠🎭┃rol-tanıtım",
+      "parentId": "1476958773787492494",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2112"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480241310467096616",
+      "type": 0,
+      "name": "┠🆙┃level-atlama",
+      "parentId": "1476958773787492494",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1476959204106567802",
+      "type": 0,
+      "name": "┗🎭┃kişisel-rol",
+      "parentId": "1476958773787492494",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480653979481407539",
+      "type": 0,
+      "name": "┠🖼️┃pfp",
+      "parentId": "1480653923122417724",
+      "permissionOverwrites": [
+        {
+          "id": "1480943318916530307",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1088",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480654035705921596",
+      "type": 0,
+      "name": "┗🎞️┃banner",
+      "parentId": "1480653923122417724",
+      "permissionOverwrites": [
+        {
+          "id": "1480943318916530307",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1088",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439340095051268267",
+      "type": 0,
+      "name": "┠💬┃genel-sohbet",
+      "parentId": "1439548595626967112",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "68672",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1476255293724692621",
+      "type": 0,
+      "name": "┠📷┃görsel-link",
+      "parentId": "1439548595626967112",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "137439333440",
+          "deny": "377957253120"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480268525825298524",
+      "type": 0,
+      "name": "┠♻️┃takas",
+      "parentId": "1439548595626967112",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480215088223752253",
+      "type": 0,
+      "name": "┗🎯┃tavsiye-öneri",
+      "parentId": "1439548595626967112",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480233881402736680",
+      "type": 0,
+      "name": "┠🎵┃osu",
+      "parentId": "1480233115803979948",
+      "permissionOverwrites": [
+        {
+          "id": "1480235299220099294",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480233937421734060",
+      "type": 0,
+      "name": "┠🎬┃roblox",
+      "parentId": "1480233115803979948",
+      "permissionOverwrites": [
+        {
+          "id": "1480235059876331652",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480233989355733003",
+      "type": 0,
+      "name": "┠⛏️┃minecraft",
+      "parentId": "1480233115803979948",
+      "permissionOverwrites": [
+        {
+          "id": "1480235229229617305",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480234125020500000",
+      "type": 0,
+      "name": "┠🔫┃cs-go",
+      "parentId": "1480233115803979948",
+      "permissionOverwrites": [
+        {
+          "id": "1480235482033160192",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480234172030390392",
+      "type": 0,
+      "name": "┠👾┃valorant",
+      "parentId": "1480233115803979948",
+      "permissionOverwrites": [
+        {
+          "id": "1480235167737057472",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480233523838455968",
+      "type": 0,
+      "name": "┗🎮┃genel-oyun-chat",
+      "parentId": "1480233115803979948",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495322318640119939",
+      "type": 0,
+      "name": "┠⌨️┃komutlar",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "1050624"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495317820077113344",
+      "type": 0,
+      "name": "┠👑┃mekan",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495318659202158754",
+      "type": 0,
+      "name": "┠💰┃para-kazanma",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495319989484392467",
+      "type": 0,
+      "name": "┠💰┃para-kazanma-2",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495320032559894650",
+      "type": 0,
+      "name": "┠💰┃para-kazanma-3",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495317879325851738",
+      "type": 0,
+      "name": "┠🏪┃market",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1485272897831305277",
+      "type": 0,
+      "name": "┠🪙┃cenqaver-beta",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480208865621708930",
+      "type": 0,
+      "name": "┠🏳️┃bayrak-bilmece",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1482719957036044348",
+      "type": 0,
+      "name": "┠✖️┃tic-tac-toe",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "32848"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480212016135278675",
+      "type": 0,
+      "name": "┠🔢┃sayı-tahmin",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480171201002209503",
+      "type": 0,
+      "name": "┠💣┃bom",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1482070441915842612",
+      "type": 0,
+      "name": "┠🧠┃gangchan-chat",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480171310209302561",
+      "type": 0,
+      "name": "┗🃏┃kelime-oyunu",
+      "parentId": "1462711851971510352",
+      "permissionOverwrites": [],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1466095364070445077",
+      "type": 0,
+      "name": "┠🎵┃müzik-komut",
+      "parentId": "1439511657167585292",
+      "permissionOverwrites": [
+        {
+          "id": "1477242677392048250",
+          "type": 0,
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480553082017546261",
+      "type": 0,
+      "name": "┠💎┃takviye-chat💬",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480553110861516840",
+      "type": 0,
+      "name": "┠💎┃takviye-özel-rol🤿",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1480554523964604427",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "7389250715057216"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1440015117764006061",
+      "type": 0,
+      "name": "┗💎┃takviye-ayrıcalıklar➕",
+      "parentId": "1440014782810816672",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1439547956800786452",
+      "type": 0,
+      "name": "┠🤖┃bot-komutları",
+      "parentId": "1439510943175540766",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464527188794806388",
+      "type": 0,
+      "name": "┠🤖┃bot-komutları",
+      "parentId": "1439510943175540766",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1480206949634015442",
+      "type": 0,
+      "name": "┠🤖┃bot-komutları",
+      "parentId": "1439510943175540766",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464527365563748485",
+      "type": 0,
+      "name": "┗🤖┃bot-komutları",
+      "parentId": "1439510943175540766",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "3072",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1484482146281455706",
+      "type": 0,
+      "name": "┠🛡️┃ekip-sohbet",
+      "parentId": "1483140573819961344",
+      "permissionOverwrites": [
+        {
+          "id": "1476959980010737724",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1477242677392048250",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1484482237813493850",
+      "type": 0,
+      "name": "┠📝┃ticket-kayıt",
+      "parentId": "1483140573819961344",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1477242677392048250",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1476959980010737724",
+          "type": 0,
+          "allow": "1024",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494739306638475414",
+      "type": 0,
+      "name": "┠🐝┃sohbet",
+      "parentId": "1493297901429067806",
+      "permissionOverwrites": [
+        {
+          "id": "1493298566691553360",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494739401920610474",
+      "type": 0,
+      "name": "┠🐝┃fotoğraflar",
+      "parentId": "1493297901429067806",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1493298566691553360",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1494739475182387381",
+      "type": 0,
+      "name": "┠🐝┃öneriler",
+      "parentId": "1493297901429067806",
+      "permissionOverwrites": [
+        {
+          "id": "1493298566691553360",
+          "type": 0,
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1495366158529069116",
+      "type": 0,
+      "name": "┗🏪┃market-log",
+      "parentId": "1495317760086114437",
+      "permissionOverwrites": [
+        {
+          "id": "1439335274516709590",
+          "type": 0,
+          "allow": "0",
+          "deny": "1048576"
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    }
+  ]
+}

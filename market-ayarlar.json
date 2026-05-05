@@ -1,0 +1,21 @@
+{
+  "1439335274516709590": {
+    "logChannelId": "1495317879325851738",
+    "items": [
+      {
+        "id": "gq70p2",
+        "type": "item",
+        "name": "çöp",
+        "description": "almayın",
+        "price": 10000
+      },
+      {
+        "id": "3v11hj",
+        "type": "item",
+        "name": "hava",
+        "description": "sadece H2O",
+        "price": 10
+      }
+    ]
+  }
+}

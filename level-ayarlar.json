@@ -1,0 +1,12 @@
+{
+  "1482097503712055339": {
+    "notificationChannel": "1487456222075686943",
+    "levelUpMessage": "🎉 Tebrikler, {user}! **Seviye {level}** oldun!",
+    "enabled": false
+  },
+  "1439335274516709590": {
+    "notificationChannel": "1495373194377433229",
+    "levelUpMessage": "Helal Lan {user} <:pepeee:1480632450102333554> {level} seviyesine gelmişsin, hayırlı olsun!!",
+    "enabled": true
+  }
+}
