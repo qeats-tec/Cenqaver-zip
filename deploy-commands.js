@@ -2,7 +2,8 @@ const { REST, Routes } = require('discord.js');
 const fs = require('node:fs');
 const path = require('node:path');
 
-// Replit Secrets/Config üzerinden bilgileri alıyoruz
+// Kesinlikle config.json dosyasını OKUMUYORUZ!
+// Bilgileri sadece Replit'ten alıyoruz.
 const token = process.env.token || process.env.DISCORD_TOKEN;
 const clientId = process.env.clientid || process.env.CLIENT_ID;
 const guildId = process.env.guildid || process.env.GUILD_ID;
@@ -16,8 +17,8 @@ for (const file of commandFiles) {
     commands.push(command.data.toJSON());
 }
 
-if (!token || !clientId || !guildId) {
-    console.error('[HATA] Eksik bilgi! Lütfen token, clientid ve guildid değerlerini Replit Secrets kısmına ekleyin.');
+if (!token || !clientId) {
+    console.error('[HATA] Token veya ClientID bulunamadı! Replit Secrets kısmını kontrol edin.');
     process.exit(1);
 }
 
@@ -25,12 +26,12 @@ const rest = new REST({ version: '10' }).setToken(token);
 
 (async () => {
     try {
-        console.log(`Komutlar yükleniyor... (${commands.length} adet)`);
+        console.log(`Komutlar yükleniyor...`);
         await rest.put(
             Routes.applicationGuildCommands(clientId, guildId),
             { body: commands },
         );
-        console.log('Komutlar başarıyla yüklendi!');
+        console.log('✅ Komutlar başarıyla yüklendi!');
     } catch (error) {
         console.error(error);
     }

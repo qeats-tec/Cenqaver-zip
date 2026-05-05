@@ -1,12 +1,10 @@
-// .env dosyasındaki değişkenleri yükler
 require('dotenv').config();
-
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, Collection, Events, GatewayIntentBits, Partials } = require('discord.js');
 const express = require('express');
 
-// Replit Secrets'dan bilgileri alıyoruz
+// Sadece Replit'ten okuyoruz
 const token = process.env.token || process.env.DISCORD_TOKEN;
 
 const client = new Client({
@@ -33,6 +31,7 @@ for (const file of commandFiles) {
 	}
 }
 
+// Olayları (Events) Yükle
 const eventsPath = path.join(__dirname, 'events');
 const eventFiles = fs.readdirSync(eventsPath).filter(file => file.endsWith('.js'));
 
@@ -47,16 +46,16 @@ for (const file of eventFiles) {
 }
 
 client.once(Events.ClientReady, async () => {
-    console.log(`${client.user.tag} olarak giriş yapıldı!`);
+    console.log(`✅ ${client.user.tag} olarak giriş yapıldı!`);
 });
 
 if (token) {
     client.login(token);
 } else {
-    console.error('Hata: Token bulunamadı!');
+    console.error('❌ HATA: Token bulunamadı! Replit Secrets kısmını kontrol edin.');
 }
 
 // Web Sunucusu (Hosting için)
 const app = express();
 app.get('/', (req, res) => res.send('Bot Aktif!'));
-app.listen(process.env.PORT || 3000, () => console.log('Sunucu hazır.'));
+app.listen(process.env.PORT || 3000, () => console.log('🌐 Web sunucusu hazır.'));
